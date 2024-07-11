@@ -69,6 +69,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-josephnwachukwu.vercel.app?user=josephnwachukwu&theme=react" alt="GitHub Streak" /></a>
  [![GitHub Streak](https://github-readme-streak-stats-josephnwachukwu.vercel.app?user=josephnwachukwu&theme=react)](https://git.io/streak-stats)
   <img width=390 src="github-readme-streak-stats-josephnwachukwu.vercel.app/?user=josephnwachukwu&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-josephnwachukwu.vercel.app/api?username=josephnwachukwu&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
