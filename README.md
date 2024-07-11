@@ -35,10 +35,21 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">Languages</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=angular,firebase,ionic,bulma,html,css,vscode,github,tailwind,git,storybook,rxjs" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,arduino&perline=5" />><br>
+</div>
+
+<h2 align="center">Frameworks</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs,php,javascript,typescript,express,firebase,mongodb,c,java,nestjs,mysql" /><br>
+</div>
+
+<h2 align="center">Tools</h2>
+<br/>
+<div align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,php,javascript,typescript,express,firebase,mongodb,c,java,nestjs,mysql" /><br>
 </div>
 
