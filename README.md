@@ -20,7 +20,33 @@
 ⚡ Fun fact **I LOVE  racing and huntung**
 
  </div>
+<div>
  
+<p>
+Over 20 Years of experience as a Software Developer and Architect primarily focused on the Front-End, Evangelizing best practices in front-end web development. Over my the course of my career, I have:
+</p>
+
+<p>
+Identified the client's needs and strategiezed solutions to solve existing and potential challenges during development while carefully considering functionality, performance, resilience, reuse, comprehensibility, scalability, security, technology constraints, timing and tradeoffs.
+</p>
+
+<p>
+Developed robust, reusable, well-documented, framework-agnostic component libraries for rapid development and prototyping of web and mobile applications comprised of components that are intuitive, visually consistent, and work together seamlessly and fit the clients visual needs and design ethos.
+</p>
+
+<p>
+Helped DevOps construct multi-stage build and deployment strategies focusing on code coverage, accessibility, automation, compliance, security, unit and regression testing with the goal of delivering more reliable builds across environments. 
+</p>
+
+<p>
+Mentored senior and junior developers by helping them understand business criteria and requirements, architectural principles, coding best practices and development guidelines, also by helping them to stand manage development goals and expectations via methods like code reviews periodic meetings, lunch & learns, and tech time.
+</p>
+
+<p>
+Collaborated with stakeholders to understand and translate business requirements into technical specifications and architectural designs, efficiently estimate development efforts, worked with product and project managers to more accurately determine the level of effort and technical feasibility focusing on the satisfaction of all business rules and requirements.
+</p>
+
+</div>
 <div align="center"> 
   <a href="mailto:josephnwachukwu@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
