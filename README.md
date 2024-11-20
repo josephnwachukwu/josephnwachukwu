@@ -73,6 +73,13 @@ Collaborated with stakeholders to understand and translate business requirements
     <img src="https://skillicons.dev/icons?i=nodejs,php,javascript,typescript,express,firebase,mongodb,c,java,nestjs,mysql&perline=10" /><br>
 </div>
 
+<h2 align="center">Languages</h2>
+<br />
+|Test|Test|
+|----------------------------|-----------------------------------------------------------------------------|
+|Invoicer| Test |
+
+
 <h2 align="center">Tools</h2>
 <br/>
 <div align="center">
