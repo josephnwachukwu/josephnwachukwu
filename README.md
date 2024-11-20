@@ -73,12 +73,12 @@ Collaborated with stakeholders to understand and translate business requirements
     <img src="https://skillicons.dev/icons?i=nodejs,php,javascript,typescript,express,firebase,mongodb,c,java,nestjs,mysql&perline=10" /><br>
 </div>
 
-<h2 align="center">Languages</h2>
+<h2 align="center">Projects </h2>
 <br />
 
-|Test|Test|
-|----------------------------|-----------------------------------------------------------------------------|
-|Matchstick <br /> [Website](https://matchstick-46c7a.web.app/)| A cutting-edge UI framework built on Angular and Firebase, designed to streamline the development of modern, responsive, and scalable web applications. This framework combines the power of Angular's component-based architecture with Firebase's robust backend-as-a-service capabilities, offering seamless integration for real-time data handling, authentication, and cloud storage. It features a library of custom reusable components tailored for intuitive design and enhanced user experience, allowing developers to accelerate application development while maintaining flexibility and performance. Ideal for building dynamic, feature-rich applications with minimal overhead and maximum efficiency. <br /> ** Tools ** <br /> HTML|
+|Name|Project Details|
+|:----------------------------:|-----------------------------------------------------------------------------|
+|<h2>Matchstick<h2> [Website](https://matchstick-46c7a.web.app/) <br /> [Github](https://github.com/HydrantApps/matchstickv17)| A cutting-edge UI framework built on Angular and Firebase, designed to streamline the development of modern, responsive, and scalable web applications. This framework combines the power of Angular's component-based architecture with Firebase's robust backend-as-a-service capabilities, offering seamless integration for real-time data handling, authentication, and cloud storage. It features a library of custom reusable components tailored for intuitive design and enhanced user experience, allowing developers to accelerate application development while maintaining flexibility and performance. Ideal for building dynamic, feature-rich applications with minimal overhead and maximum efficiency. <h3>Tools </h3> <img src="https://skillicons.dev/icons?i=angular,firebase,typescript,nodejs,javascript,html,css,&perline=10" /> <br /> <h3>Screenshots </h3> |
 
 
 <h2 align="center">Tools</h2>
