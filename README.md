@@ -1,5 +1,19 @@
+Front End <br />
+<img src="https://skillicons.dev/icons?i=angular,react,vue,typescript,javascript,html,css,sass,flutter&perline=10" /> <br />
+Testing <br />
+<img src="https://skillicons.dev/icons?i=cypress,jest&perline=10" /> <br />
+Code and Service Documentatio <br />
+<img src="https://skillicons.dev/icons?i=postman&perline=10" /> <br />
+Version Control <br />
+<img src="https://skillicons.dev/icons?i=github,gitlab,bitbucket,npm,nexus&perline=10" /> <br />
+Backend <br />
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,dotnet,nexus&perline=10" /> <br />
 
-
+<img src="https://skillicons.dev/icons?i=jira,asana,bitbucket,npm,nexus&perline=10" /> <br />
+CI / CD <br />
+<img src="https://skillicons.dev/icons?i=jenkins,circleci,bitbucket,npm,nexus&perline=10" /> <br />
+Database <br />
+<img src="https://skillicons.dev/icons?i=firebase,mysql,&perline=10" /> <br />
 
 | | <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=josephnwachukwu.josephnwachukwu" /> |
 |:---:|---|
