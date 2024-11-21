@@ -3,25 +3,23 @@
 
 | | |
 |:---:|---|
-|![Me](/images/joseph_nwachukwu.png) | test |
+<img src="https://github.com/josephnwachukwu/josephnwachukwu/blob/main/images/joseph_nwachukwu.png" width="250" /> | <h2><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Whats+Up!+👋;+I'm+Joseph+Nwachukwu!;" /></h2> <h3 align="center">A Principal Software Architect from New York City</h3> 🔭 I’m currently working on **An Angular 18 component library using signals** <br /> <br />  🌱 I’m currently learning **Vite, Next, AWS**  <br /> <br /> 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/josephnwachukwu/josephnwachukwu/issues)** <br /> <br /> ⚡ Fun fact **I LOVE  racing and huntung**|
  
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Whats+Up!+👋;+I'm+Joseph+Nwachukwu!;" />
-</h1>
 
-<h3 align="center">A Principal Software Architect from New York City</h3>
+
+
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **An Angular 17 component library using signals**
  
- 🌱 I’m currently learning **Vite, Next, AWS**
+ 
+ 
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/josephnwachukwu/josephnwachukwu/issues)**
 
-⚡ Fun fact **I LOVE  racing and huntung**
+
+
 
  </div>
 <div>
