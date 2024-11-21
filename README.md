@@ -1,79 +1,31 @@
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=josephnwachukwu.josephnwachukwu" />
+
+
+| | <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=josephnwachukwu.josephnwachukwu" /> |
+|:---:|---|
+<img src="https://github.com/josephnwachukwu/josephnwachukwu/blob/main/images/joseph_nwachukwu.png" width="350" /> | <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=false&vCenter=true&width=500&height=70&duration=4000&lines=Whats+Up!+👋;+I'm+Joseph+Nwachukwu!;" /> <h3>A Principal Software Architect from New York City</h3> 🔭 I’m currently working on **An Angular 18 component library using signals and firebase and <br />custom css** <br />  🌱 I’m currently learning **Vite, Next, AWS**  <br /> 💬 Ask me about **Angular, Firebase, Ionic, Flutter, Typescript... or anything [here](https://github.com/josephnwachukwu/josephnwachukwu/issues)** <br /> ⚡ Fun fact **I LOVE  racing and hunting** <br />  <br /> <a href="mailto:josephnwachukwu@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /></a> <a href="https://linkedin.com/in/josephnwachukwu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a> <a href="https://josephnwachukwu.github.io" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /></a> | 
+|<h3>Most Proficient Languages</h3> <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,arduino&perline=5" /> <h3>Most Proficient Frameworks </h3> <img src="https://skillicons.dev/icons?i=nodejs,php,javascript,typescript,express,firebase,mongodb,c,java,nestjs,mysql&perline=5" /> <h3>Most Proficient Tools</h3> <img src="https://skillicons.dev/icons?i=androidstudio,atom,azure,bash,bitbucket,codepen,eclipse,figma,gcp,git,github,githubactions,idea,ai,jenkins,nginx,ps,powershell,raspberrypi,stackoverflow,sublime,ubuntu,visualstudio,vscode,webpack,webstorm,wordpress,yarn&perline=5" />| Over 20 Years of experience as a Software Developer and Architect primarily focused on the Front-End, Evangelizing best practices in front-end web development. Over my the course of my career, I have: <br /> <br />Identified the client's needs and strategiezed solutions to solve existing and potential challenges during development while carefully considering functionality, performance, resilience, reuse, comprehensibility, scalability, security, technology constraints, timing and tradeoffs.<br /> <br /> Developed robust, reusable, well-documented, framework-agnostic component libraries for rapid development and prototyping of web and mobile applications comprised of components that are intuitive, visually consistent, and work together seamlessly and fit the clients visual needs and design ethos. <br /><br /> Helped DevOps construct multi-stage build and deployment strategies focusing on code coverage, accessibility, automation, compliance, security, unit and regression testing with the goal of delivering more reliable builds across environments. <br /> <br />Mentored senior and junior developers by helping them understand business criteria and requirements, architectural principles, coding best practices and development guidelines, also by helping them to stand manage development goals and expectations via methods like code reviews periodic meetings, lunch & learns, and tech time.<br /> <br />Collaborated with stakeholders to understand and translate business requirements into technical specifications and architectural designs, efficiently estimate development efforts, worked with product and project managers to more accurately determine the level of effort and technical feasibility focusing on the satisfaction of all business rules and requirements.|
  
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Whats+Up!+👋;+I'm+Joseph+Nwachukwu!;" />
-</h1>
 
-<h3 align="center">A Principal Software Architect from New York City</h3>
-
-<br/>
-
-<div align="center">
- 
- 🔭 I’m currently working on **An Angular 17 component library using signals**
- 
- 🌱 I’m currently learning **Vite, Next, AWS**
-
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/josephnwachukwu/josephnwachukwu/issues)**
-
-⚡ Fun fact **I LOVE  racing and huntung**
-
- </div>
-<div>
- 
 <p>
-Over 20 Years of experience as a Software Developer and Architect primarily focused on the Front-End, Evangelizing best practices in front-end web development. Over my the course of my career, I have:
+
 </p>
 
 <p>
-Identified the client's needs and strategiezed solutions to solve existing and potential challenges during development while carefully considering functionality, performance, resilience, reuse, comprehensibility, scalability, security, technology constraints, timing and tradeoffs.
+
 </p>
 
 <p>
-Developed robust, reusable, well-documented, framework-agnostic component libraries for rapid development and prototyping of web and mobile applications comprised of components that are intuitive, visually consistent, and work together seamlessly and fit the clients visual needs and design ethos.
+
 </p>
 
 <p>
-Helped DevOps construct multi-stage build and deployment strategies focusing on code coverage, accessibility, automation, compliance, security, unit and regression testing with the goal of delivering more reliable builds across environments. 
+
 </p>
 
-<p>
-Mentored senior and junior developers by helping them understand business criteria and requirements, architectural principles, coding best practices and development guidelines, also by helping them to stand manage development goals and expectations via methods like code reviews periodic meetings, lunch & learns, and tech time.
-</p>
 
-<p>
-Collaborated with stakeholders to understand and translate business requirements into technical specifications and architectural designs, efficiently estimate development efforts, worked with product and project managers to more accurately determine the level of effort and technical feasibility focusing on the satisfaction of all business rules and requirements.
-</p>
 
-</div>
-<div align="center"> 
-  <a href="mailto:josephnwachukwu@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/josephnwachukwu" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://josephnwachukwu.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
-
- <hr/>
- 
-<h2 align="center">Languages</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,arduino&perline=10" /><br>
-</div>
-
-<h2 align="center">Frameworks</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,php,javascript,typescript,express,firebase,mongodb,c,java,nestjs,mysql&perline=10" /><br>
-</div>
-
-<h2 align="center">Projects </h2>
+<h2 align="center">My Highlighted Projects </h2>
 <br />
 
 |Name|Project Details|
@@ -81,31 +33,12 @@ Collaborated with stakeholders to understand and translate business requirements
 |![Matchstick](images/matchstick.png) <h2>Matchstick</h2> [Website](https://matchstick-46c7a.web.app/) <br /> [Github](https://github.com/HydrantApps/matchstickv17)| A cutting-edge UI framework built on Angular and Firebase, designed to streamline the development of modern, responsive, and scalable web applications. This framework combines the power of Angular's component-based architecture with Firebase's robust backend-as-a-service capabilities, offering seamless integration for real-time data handling, authentication, and cloud storage. It features a library of custom reusable components tailored for intuitive design and enhanced user experience, allowing developers to accelerate application development while maintaining flexibility and performance. Ideal for building dynamic, feature-rich applications with minimal overhead and maximum efficiency. <h3>Tools </h3> <img src="https://skillicons.dev/icons?i=angular,firebase,typescript,nodejs,javascript,html,css,&perline=10" /> <br /> <h3>Screenshots </h3> |
 |![Linkd](/images/linkd.png) <h2>Linkd - Live Streaming</h2> [Website](https://linkdstreaming.live/) <br /> Code Available upon request | Linkd is the next-generation live streaming platform designed to connect creators and viewers like never before. Whether you're an artist, gamer, influencer, or simply want to share life’s moments, Linkd empowers you to go live effortlessly and engage with a global audience in real-time.<br /> Why Choose Linkd? <br /> * Seamless Streaming: Stream with crystal-clear quality, zero delays, and uninterrupted performance.<br /> * Interactive Features: Real-time chats, live polls, reactions, and more to keep your audience engaged.<br /> * Monetize Your Talent: Unlock opportunities to earn through tips, sponsorships, and exclusive content.<br /> * Global Reach: Share your story with viewers from around the world, anytime, anywhere.<br /> * Cross-Platform Access: Stream directly from your phone, tablet, or desktop with ease. <br /> Whether you’re hosting events, sharing tutorials, or just chatting with followers, Linkd is where your community comes to life. Ready to make your mark? Start streaming today with Linkd and create unforgettable live experiences! <br />Stay connected. Stay Linkd. <h3>Tools</h3> <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,php,photoshop,nodejs,typescript,&perline=10" /> <h3>Screenshots</h3> |
 |![Invoicer](/images/invoicer.png) <h2>Invoicer</h2> [Website](https://invoicer.me/) <br /> Code available upon request| Introducing Invoicer, your ultimate companion for effortless financial management. Invoicer is a robust and intuitive mobile application designed to streamline the process of generating invoices and expense reports with ease and efficiency.<br /> <br />With Invoicer, you can bid farewell to the hassle of manual data entry and cumbersome paperwork. Whether you're a freelancer, small business owner, or simply managing personal finances, Invoicer empowers you to stay organized and in control of your expenses effortlessly. <br /> **Key Features:** <br /> <br /> 1. Invoice Generation: Create professional invoices on the go with customizable templates. Simply input your client's information, add billable items, and generate polished invoices within seconds. <br /> 2. Expense Tracking: Effortlessly track your expenses by category, date, and payment method. Capture receipts using your device's camera and attach them directly to your expense entries for comprehensive record-keeping. <br /> 3. Automated Calculations: Say goodbye to manual calculations. Invoicer automatically calculates totals, taxes, and discounts, saving you time and minimizing errors. <br /> 4. Real-Time Sync: Seamlessly sync your data across multiple devices, ensuring that your financial information is always up-to-date and accessible whenever you need it. <br /> 5. Expense Reports: Generate detailed expense reports with just a few taps. Customize report formats to suit your preferences and easily share them with clients, colleagues, or accounting departments. <br /> 6. Integration: Connect Invoicer with your existing accounting software or bank accounts for effortless data synchronization and reconciliation. <br /> 7. Security: Rest assured knowing that your financial data is secure with advanced encryption and password protection features. <br /> 8. User-Friendly Interface: Navigate Invoicer with ease thanks to its intuitive interface and user-friendly design. Whether you're a tech-savvy professional or a novice user, Invoicer makes financial management a breeze. <br /> <br />Take control of your finances and simplify your workflow with Invoicer. Download the app today and experience the convenience of automated invoicing and expense reporting at your fingertips. <h3>Tools</h3> <img src="https://skillicons.dev/icons?i=firebase,angular,typescript,html,css,photoshop,nodejs,express&perline=10" /> <h3>Screenshots</h3> |
-|![Epoch](/images/epoch-time.png) <h2>Epoch Time Tracking </h2> [Website](https://epoch-time.com/) <br /> Code Available Upon Request | Epoch <h3>Tools</h3> <img src="https://skillicons.dev/icons?i=firebase,angular,typescript,html,css,photoshop,nodejs,express&perline=10" /> <h3>Screenshots</h3> |
+|![Epoch](/images/epoch-time.png) <h2>Epoch Time Tracking </h2> [Website](https://epoch-time.com/) <br /> Code Available Upon Request | Effortlessly manage your time and enhance productivity with Epoch Time Tracking, the ultimate tool for individuals and teams. Designed with simplicity and efficiency in mind, Epoch allows you to:<br /> <br /> * Track Time with Precision: Log hours for tasks, projects, and activities in real-time or manually. <br />* Organize Your Workflow: Categorize tasks, assign projects, and visualize progress with intuitive dashboards. <br />* Gain Insightful Analytics: Generate detailed reports to analyze productivity trends and optimize your time management strategies. <br />* Collaborate Seamlessly: Enable team-wide transparency with shared projects and easy time tracking for collaborative efforts. <br />* Customizable for Your Needs: Tailor settings, notifications, and tracking preferences to match your workflow. <br /><br />Whether you're a freelancer, part of a team, or simply looking to improve personal productivity, Epoch is the time tracking tool that empowers you to take control of your hours and make every second count. <h3>Tools</h3> <img src="https://skillicons.dev/icons?i=firebase,angular,typescript,html,css,photoshop,nodejs,express&perline=10" /> <h3>Screenshots</h3> |
 |![Showcase me](/images/showaseme.png) <h2>Showcase Me</h2> [Website](https://resume-for-me-24ec0.web.app/) <br /> Code Available upon request| **Showcase Me** is your personalized digital hub, designed to showcase your professional identity in a single, seamless link. With ShowcaseMe, you can effortlessly display your resume, portfolio, and key links—giving potential employers, clients, or collaborators quick access to your work, achievements, and personal brand. Whether you're a freelancer, job seeker, or creative professional, ShowcaseMe helps you present a polished, organized profile that highlights your skills, experience, and talent in one easy-to-share platform. Stand out and share what matters most—your work, your links, and your story. <br /> <br /> **Resume Builder** an easy-to-use resume builder that helps you create a professional, standout resume in minutes. With customizable templates and intuitive tools, you can quickly showcase your skills, experience, and achievements to land your next job or opportunity. No design skills required—just fill in your details, and let **Showcase Me** do the rest. Generates PDF version of your resume to send out. <br /> <br /> **PortFolio Builder** a powerful portfolio builder that helps you create a stunning, professional online portfolio in minutes. Showcase your work, skills, and accomplishments with customizable templates designed to highlight your unique talents. Perfect for creatives, freelancers, and professionals looking to impress potential clients or employers with a polished, easy-to-share portfolio. <h3>Tools</h3> <img src="https://skillicons.dev/icons?i=firebase,angular,typescript,html,css,photoshop,nodejs,express&perline=10" /> <h3>Screenshots</h3> |
 |![Testing Pad](/images/testing-pad.png) <h2>Testing Pad</h2> [Website](https://testing-pad.web.app/) <br /> Code available upon request| Testing Pad <h3>Tools</h3> <img src="https://skillicons.dev/icons?i=firebase,angular,typescript,html,css,photoshop,nodejs,express&perline=10" /> <h3>Screenshots</h3> |
 
 
-<h2 align="center">Tools</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=androidstudio,atom,azure,bash,bitbucket,codepen,eclipse,figma,gcp,git,github,githubactions,idea,ai,jenkins,nginx,ps,powershell,raspberrypi,stackoverflow,sublime,ubuntu,visualstudio,vscode,webpack,webstorm,wordpress,yarn&perline=10" /><br>
-</div>
-
-<br/>
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/josephnwachukwu/josephnwachukwu/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ My Stats ⚡</h2>
 <br>
 <div align=center>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-josephnwachukwu.vercel.app?user=josephnwachukwu&theme=react&mode=weekly&card_width=375&card_height=170" alt="GitHub Streak" /></a>
