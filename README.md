@@ -1,20 +1,3 @@
-Front End <br />
-<img src="https://skillicons.dev/icons?i=angular,react,vue,typescript,javascript,html,css,sass,flutter&perline=10" /> <br />
-Testing <br />
-<img src="https://skillicons.dev/icons?i=cypress,jest&perline=10" /> <br />
-Code and Service Documentatio <br />
-<img src="https://skillicons.dev/icons?i=postman&perline=10" /> <br />
-Version Control <br />
-<img src="https://skillicons.dev/icons?i=github,gitlab,bitbucket,npm,nexus&perline=10" /> <br />
-Backend <br />
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,dotnet,dart&perline=10" /> <br />
-
-<img src="https://skillicons.dev/icons?i=jira,asana,bitbucket,npm,nexus&perline=10" /> <br />
-CI / CD <br />
-<img src="https://skillicons.dev/icons?i=jenkins,circleci,bitbucket,npm,nexus&perline=10" /> <br />
-Database <br />
-<img src="https://skillicons.dev/icons?i=firebase,mysql,&perline=10" /> <br />
-
 | | <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=josephnwachukwu.josephnwachukwu" /> |
 |:---:|---|
 <img src="https://github.com/josephnwachukwu/josephnwachukwu/blob/main/images/joseph_nwachukwu.png" width="350" /> | <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=false&vCenter=true&width=500&height=70&duration=4000&lines=Whats+Up!+👋;+I'm+Joseph+Nwachukwu!;" /> <h3>A Principal Software Architect from New York City</h3> 🔭 I’m currently working on **An Angular 18 component library using signals and firebase and <br />custom css** <br />  🌱 I’m currently learning **Vite, Next, AWS**  <br /> 💬 Ask me about **Angular, Firebase, Ionic, Flutter, Typescript... or anything [here](https://github.com/josephnwachukwu/josephnwachukwu/issues)** <br /> ⚡ Fun fact **I LOVE  racing and hunting** <br />  <br /> <a href="mailto:josephnwachukwu@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /></a> <a href="https://linkedin.com/in/josephnwachukwu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a> <a href="https://josephnwachukwu.github.io" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /></a> <a href="https://github.com/josephnwachukwu/josephnwachukwu/blob/main/documents/JosephNwachukwuResume2024.pdf" target="_blank"> <img src="https://img.shields.io/badge/Resume-008800?style=for-the-badge&logo=academia&logoColor=white" target="_blank" /></a>| 
