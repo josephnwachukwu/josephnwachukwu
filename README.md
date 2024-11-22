@@ -7,7 +7,7 @@ Code and Service Documentatio <br />
 Version Control <br />
 <img src="https://skillicons.dev/icons?i=github,gitlab,bitbucket,npm,nexus&perline=10" /> <br />
 Backend <br />
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,dotnet,nexus&perline=10" /> <br />
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,dotnet,dart&perline=10" /> <br />
 
 <img src="https://skillicons.dev/icons?i=jira,asana,bitbucket,npm,nexus&perline=10" /> <br />
 CI / CD <br />
